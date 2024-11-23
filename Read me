@@ -1,0 +1,32 @@
+# Initiative Sefdar-AI
+
+Bienvenue dans l'**Initiative Sefdar-AI**, un projet open-source visant à explorer les concepts de mouvement perpétuel optimisé à l'aide de forces magnétiques et d'aimants tournants.
+
+## Objectifs du projet
+
+Ce projet a pour but de :
+- Explorer des systèmes de mouvement perpétuel avec des aimants tournants.
+- Optimiser les forces magnétiques pour améliorer le rendement énergétique.
+- Partager les résultats et les codes sous une licence open-source pour encourager la collaboration.
+
+## Structure du projet
+
+- **/docs** : Contient les rapports et autres documents relatifs au projet.
+- **/simulations** : Contient les codes et les résultats des simulations réalisées.
+- **/images** : Graphiques et visualisations associés au projet.
+
+## Contribuer
+
+Si vous souhaitez contribuer à ce projet :
+1. Forkez ce dépôt.
+2. Créez des issues pour proposer des idées ou poser des questions.
+3. Soumettez des pull requests pour partager vos améliorations.
+
+## Ressources
+
+- [Rapport complet du projet](docs/rapport_complet.pdf)
+- [Résultats des simulations](simulations/résultats_simulation.csv)
+
+## Licence
+
+Ce projet est sous la [Licence MIT](LICENSE).
